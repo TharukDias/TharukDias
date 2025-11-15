@@ -1,6 +1,4 @@
-## Hi there 👋
-## I'm currently following a softwear engeneering degree
-## Intrested in game development
+## Hi there, Im Tharuk Dias
 <!--
 **TharukDias/TharukDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
