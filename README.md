@@ -7,7 +7,7 @@
 <a href="https://instagram.com/tharuk.dias" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tharuk.dias" height="30" width="40" /></a>
 <a href="https://discord.gg/937206334036791330" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="937206334036791330" height="30" width="40" /></a>
 <a href="https://mailto:tharuksdias@gmail.com?subject=Just%20say%20hello&body=just%20saying%20hello" target="blank"><img align="center"
-src="https://www.vecteezy.com/free-png/gmail-icon" height="30" width="40" /></a>
+src="https://imgs.search.brave.com/1FxIjE2zu04outIWTb9IZXBbAjj8zI7UUDpkNms1eOc/rs:fit:32:32:1:0/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMTA2M2Y3YWZj/M2M0MTJkZGVmMDkw/ZTllOThkMjU2Mzdm/MDYzOGY5MGQ3NDcz/MmFiM2ZiYmY5YzZk/YmI5NTM1OC9tYWls/Lmdvb2dsZS5jb20v" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
